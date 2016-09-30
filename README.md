@@ -1,40 +1,40 @@
 # Revise-R
 Revise your R programming in few minutes.
 
-*. Expression :
+### Expression :
 
-   1+1 , "my name is xyz" , 6*7, etc.
+    1+1 , "my name is xyz" , 6*7, etc.
 
-*. Logical values:
+### Logical values:
 
-   3<4, 4+3==3, T==TRUE, F==FALSE
+    3<4, 4+3==3, T==TRUE, F==FALSE
 
-*. Variables:
+### Variables:
 
-   x <- 4, x <- "chages value to string" , x <- T
+    x <- 4, x <- "chages value to string" , x <- T
 
-*. Print value by typing its name directly
+### Print value by typing its name directly
 
-   x, y, z
+    x, y, z
 
-*. Function
+### Function
 
-   sum(1, 2, 3) , sqrt(16)
+    sum(1, 2, 3) , sqrt(16)
 
-   Repeat a value 3 times ---> rep("name", times = 3)
+    Repeat a value 3 times ---> rep("name", times = 3)
 
-*. Help Function
+### Help Function
 
-   help(functionname) , help(sum)
+    help(functionname) , help(sum)
 
-*. example function
+### example function
 
-   example(functionname) , example(min)
+    example(functionname) , example(min)
 
-*. Show files
+### Show files
 
-   list.files() --> It will display ths list of file stored with .R extention
+    list.files() --> It will display ths list of file stored with .R extention
 
-*. Run script (.R file)
+### Run script (.R file)
 
-   source("filename.R")
+    source("filename.R")
